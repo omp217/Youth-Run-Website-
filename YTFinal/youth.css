@@ -1803,6 +1803,23 @@
 
 @media only screen and (min-width: 110px) and (max-width: 1000px) {
 
+  #yt_video
+  {
+    height: 15rem;
+  }
+  #yt_frame
+{
+  height: 80%;
+  width: 80%;
+  display: block;
+  /* margin: 0px 5px 0px 5px; */
+}
+
+.legacy-section
+{
+  margin: 1% 0%;
+}
+
   .our-sponsors
   {
     padding: 0px;
